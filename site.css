@@ -388,7 +388,7 @@ a {
 
 .story-container {
     height: 30vh;
-    max-height: fit-content;
+    max-height: 200px;
 }
 
 .story-header-img {
